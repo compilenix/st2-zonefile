@@ -2,13 +2,20 @@
     "name": "vscode-zonefile",
     "displayName": "vscode-zonefile",
     "description": "Bind Zone File syntax highlighting",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Compilenix",
     "author": {
         "email": "Compilenix@gmail.com",
         "name": "Compilenix",
         "url": "https://compilenix.org/"
     },
+    "contributors": [
+        {
+            "email": "pcfens@wm.edu",
+            "name": "Phil Fenstermacher",
+            "url": "https://github.com/pcfens"
+        }
+    ],
     "license": "MIT",
     "repository": {
         "type": "git",
