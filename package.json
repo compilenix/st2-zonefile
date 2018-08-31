@@ -27,7 +27,7 @@
         "languages": [{
             "id": "zone",
             "aliases": ["Bind9 DNS Zone", "zone"],
-            "extensions": [".zone", ".signed"],
+            "extensions": [".zone", ".signed", ".db"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
