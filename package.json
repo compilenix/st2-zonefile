@@ -2,7 +2,7 @@
     "name": "vscode-zonefile",
     "displayName": "vscode-zonefile",
     "description": "Bind Zone File syntax highlighting",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "Compilenix",
     "author": {
         "email": "Compilenix@gmail.com",
@@ -28,13 +28,13 @@
         "vscode": "^1.15.0"
     },
     "categories": [
-        "Languages"
+        "Programming Languages"
     ],
     "contributes": {
         "languages": [{
             "id": "zone",
             "aliases": ["Bind9 DNS Zone", "zone"],
-            "extensions": [".zone", ".signed", ".db"],
+            "extensions": [".zone", ".signed", ".db", ".dns"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
