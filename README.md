@@ -1,3 +1,6 @@
+# Donate if you want
+https://www.paypal.me/compilenix
+
 # Bind Zone File Syntax Highlighting
 
 Here's a very basic syntax highlighting package for zone files.
